@@ -50,18 +50,10 @@ I enjoy turning complex problems into simple, beautiful user experiences.
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomas-stratagile&show_icons=true&theme=react" height="160" />
-  <img src="https://streak-stats.demolab.com?user=thomas-stratagile&theme=react" height="160" />
-</p>
-
----
-
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://thomaschacko.vercel.app
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/thomas-chacko-7003a9283/
+- 📧 Email: thomaschacko180@gmail.com
 
 ---
 
