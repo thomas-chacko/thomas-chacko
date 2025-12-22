@@ -45,5 +45,3 @@ I enjoy turning complex problems into simple, beautiful user experiences.
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=thomas-chacko.thomas-chacko" />
 </div>
-
-⭐️ *If you like my work, consider starring my repositories!*
