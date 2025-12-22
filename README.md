@@ -40,16 +40,6 @@ I enjoy turning complex problems into simple, beautiful user experiences.
 
 ---
 
-## 📌 Featured Projects
-- 💻 **Windows Theme Portfolio Website**  
-  👉 Live: https://thomaschacko.vercel.app  
-- 💬 **Chat Application** (Next.js + Real-time features)
-- 🎨 **UI Animations & Interactive Components**
-
-*(More projects coming soon 🚧)*
-
----
-
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://thomaschacko.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/thomas-chacko-7003a9283/
