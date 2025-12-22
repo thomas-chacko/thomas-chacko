@@ -1,9 +1,5 @@
 ## Hi there 👋 I'm Thomas
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thomas-chacko.thomas-chacko" />
-</div>
-
 ### 🚀 Frontend Developer | React • Next.js • Modern UI
 
 I’m a passionate **Frontend Developer** who loves building clean, responsive, and high-performance web applications.  
@@ -46,5 +42,8 @@ I enjoy turning complex problems into simple, beautiful user experiences.
 - 📧 Email: thomaschacko180@gmail.com
 
 ---
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thomas-chacko.thomas-chacko" />
+</div>
 
 ⭐️ *If you like my work, consider starring my repositories!*
