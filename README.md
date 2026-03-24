@@ -11,17 +11,13 @@
 <br/>
 
 <div align="center">
-  <a href="https://thomaschacko.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-thomaschacko.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/thomas-chacko-7003a9283/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="mailto:thomaschacko180@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thomaschacko180@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-thomaschacko.vercel.app-58a6ff?style=for-the-badge&labelColor=0d1117)](https://thomaschacko.vercel.app)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thomas--chacko-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/thomas-chacko-7003a9283/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-thomaschacko180-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:thomaschacko180@gmail.com)
+
 </div>
 
 <br/>
@@ -111,6 +107,10 @@ const thomas: Developer = {
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-chacko&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
 </div>
+
+<br/>
+
+---
 
 ---
 
