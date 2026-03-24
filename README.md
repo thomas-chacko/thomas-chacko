@@ -33,7 +33,7 @@ const thomas: Developer = {
   location:   "Kerala, India 🇮🇳",
   passion:    "Turning complex problems into clean, beautiful UX",
   focus:      ["React", "Next.js", "Modern UI/UX"],
-  currentlyLearning: ["TypeScript Patterns", "System Design", "Cloud Architecture"],
+  currentlyLearning: ["TypeScript Patterns", "System Design", "Advance Concepts of Backend and DB"],
   funFact:    "I debug with console.log and I'm not sorry 😄",
 };
 ```
