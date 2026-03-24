@@ -116,14 +116,6 @@ const thomas: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thomas-chacko&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</div>
-
-<br/>
-
 ---
 
 ## 📈 Contribution Graph
