@@ -34,7 +34,6 @@ const thomas: Developer = {
   passion:    "Turning complex problems into clean, beautiful UX",
   focus:      ["React", "Next.js", "Modern UI/UX"],
   currentlyLearning: ["TypeScript Patterns", "System Design", "Advance Concepts of Backend and DB"],
-  funFact:    "I debug with console.log and I'm not sorry 😄",
 };
 ```
 
@@ -109,24 +108,6 @@ const thomas: Developer = {
 </div>
 
 <br/>
-
----
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thomas-chacko&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a2332&hide_border=true" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a2332,100:0d1117&height=120&section=footer&animation=fadeIn" />
-</div>
 
 <div align="center">
   <sub>✨ Crafted with passion by <a href="https://thomaschacko.vercel.app">Thomas Chacko</a> • Let's build something amazing together!</sub>
